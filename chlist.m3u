@@ -4,7 +4,7 @@
 rtmp://50.7.115.2/stream/1105
 
 #EXTINF:-1 tvg-id="TVP 1" tvg-logo="tvp1.png" group-title="",TVP 1 HD
-rtmp://89.34.237.106/stream/231
+rtmp://89.34.237.106/stream/2312
 
 #EXTINF:-1 tvg-id="TVP 2" tvg-logo="tvp2.png" group-title="",TVP 2 HD
 rtmp://50.7.176.132/stream/2111
@@ -65,6 +65,9 @@ rtmp://50.7.115.2/stream/2614
 
 #EXTINF:-1 tvg-id="Fokus TV" tvg-logo="fokus.png" group-title="",Fokus TV
 rtmp://stream.smcloud.net/live/fokustv
+
+#EXTINF:-1 tvg-id="Stopklatka" tvg-logo="stopklatka.png" group-title="",Stopklatka
+rtmp://$OPT:rtmp-raw=rtmp://31.220.40.61/live/ playpath=dsdsdsdd swfUrl=http://dotstream.tv/jwp/jwplayer.flash.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=dsdsdsdd&width=600&height=450
 
 #EXTINF:-1 tvg-id="FOX" tvg-logo="fox.png" group-title="",FOX HD
 rtmp://50.7.115.2/stream/2113
