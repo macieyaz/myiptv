@@ -1,0 +1,133 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TVP" tvg-logo="tvp_hd.png" group-title="",TVP HD
+rtmp://50.7.115.2/stream/1105
+
+#EXTINF:-1 tvg-id="TVP 1" tvg-logo="tvp1.png" group-title="",TVP 1 HD
+rtmp://89.34.237.106/stream/231
+
+#EXTINF:-1 tvg-id="TVP 2" tvg-logo="tvp2.png" group-title="",TVP 2 HD
+rtmp://50.7.176.132/stream/2111
+
+#EXTINF:-1 tvg-id="TVP Seriale" tvg-logo="tvp_seriale.png" group-title="",TVP Seriale
+rtmp://50.7.115.2/stream/1209
+
+#EXTINF:-1 tvg-id="TTV" tvg-logo="ttv.png" group-title="",TTV
+rtmp://50.7.115.2/stream/1118
+
+#EXTINF:-1 tvg-id="TV 4" tvg-logo="tv4.png" group-title="",TV 4
+rtmp://50.7.115.2/stream/1122
+
+#EXTINF:-1 tvg-id="TV 6" tvg-logo="tv6.png" group-title="",TV 6
+rtmp://50.7.115.2/stream/1123
+
+#EXTINF:-1 tvg-id="TV Puls" tvg-logo="tv_puls.png" group-title="",TV Puls
+rtmp://50.7.115.2/stream/1120
+
+#EXTINF:-1 tvg-id="PULS 2" tvg-logo="puls2.png" group-title="",Puls 2
+rtmp://50.7.115.2/stream/1121
+
+#EXTINF:-1 tvg-id="Polsat" tvg-logo="polsat.png" group-title="",Polsat HD
+rtmp://50.7.176.132/stream/2112
+
+#EXTINF:-1 tvg-id="Polsat 2" tvg-logo="polsat2.png" group-title="",Polsat 2 HD
+rtmp://stream.ssh101.com:1935/live/sitemtvpolsat2
+
+#EXTINF:-1 tvg-id="Polsat Film" tvg-logo="polsat_film.png" group-title="",Polsat Film HD
+rtmp://50.7.115.2/stream/3312
+
+#EXTINF:-1 tvg-id="Polsat News" tvg-logo="polsat_news.png" group-title="",Polsat News HD
+rtmp://50.7.115.2/stream/3012
+
+#EXTINF:-1 tvg-id="Polsat Cafe" tvg-logo="polsat_cafe.png" group-title="",Polsat Cafe
+http://iklub.net/polsatcafe.html
+
+#EXTINF:-1 tvg-id="Polsat Play" tvg-logo="polsat_play.png" group-title="",Polsat Play
+rtmp://50.7.115.2/stream/1127
+
+#EXTINF:-1 tvg-id="TVN" tvg-logo="tvn.png" group-title="",TVN HD
+rtmp://50.7.176.132/stream/2212
+
+#EXTINF:-1 tvg-id="TVN 7" tvg-logo="tvn7.png" group-title="",TVN 7 HD
+rtmp://50.7.115.2/stream/2213
+
+#EXTINF:-1 tvg-id="TVN Style" tvg-logo="tvn_style.png" group-title="",TVN Style HD
+rtmp://50.7.115.2/stream/1222
+
+#EXTINF:-1 tvg-id="TVN 24" tvg-logo="tvn24.png" group-title="",TVN 24 HD
+rtmp://50.7.115.2/stream/2411
+
+#EXTINF:-1 tvg-id="TVN 24 BiS" tvg-logo="tvn24_bis.png" group-title="",TVN 24 BiS HD
+rtmp://50.7.115.2/stream/2513
+
+#EXTINF:-1 tvg-id="Superstacja" tvg-logo="superstacja.png" group-title="",Superstacja
+rtmp://50.7.115.2/stream/2614
+
+#EXTINF:-1 tvg-id="Fokus TV" tvg-logo="fokus.png" group-title="",Fokus TV
+rtmp://stream.smcloud.net/live/fokustv
+
+#EXTINF:-1 tvg-id="FOX" tvg-logo="fox.png" group-title="",FOX HD
+rtmp://50.7.115.2/stream/2113
+
+#EXTINF:-1 tvg-id="CANAL+" tvg-logo="canal.png" group-title="",Canal+ HD
+rtmp://50.7.115.2/stream/3113
+
+#EXTINF:-1 tvg-id="CANAL+ Film" tvg-logo="canal_film.png" group-title="",Canal+ Film HD
+rtmp://50.7.115.2/stream/3511
+
+#EXTINF:-1 tvg-id="CANAL+ Family" tvg-logo="canal_family.png" group-title="",Canal+ Family HD
+rtmp://50.7.115.2/stream/3513
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="hbo.png" group-title="",HBO HD
+rtmp://50.7.115.2/stream/1106
+
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="hbo2.png" group-title="",HBO 2 HD
+rtmp://50.7.115.2/stream/2013
+
+#EXTINF:-1 tvg-id="HBO3" tvg-logo="hbo3.png" group-title="",HBO 3 HD
+rtmp://50.7.115.2/stream/2012
+
+#EXTINF:-1 tvg-id="Kino Polska" tvg-logo="kino_polska.png" group-title="",Kino Polska
+rtmp://50.7.115.2/stream/1204
+
+#EXTINF:-1 tvg-id="Filmbox" tvg-logo="filmbox.png" group-title="",Filmbox
+http://dcs-188-64-85-56.atmcdn.pl/streams/o2/tvnplayer/nlive/filmbox/live.livx
+
+#EXTINF:-1 tvg-id="Filmbox Extra HD" tvg-logo="filmbox_extra.png" group-title="",Filmbox Extra
+rtmp://50.7.115.2/stream/1218
+
+#EXTINF:-1 tvg-id="Cinemax 2" tvg-logo="cinemax2.png" group-title="",Cinemax 2 HD
+rtmp://50.7.115.2/stream/2211
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="animal_planet.png" group-title="",Animal Planet HD
+rtmp://50.7.115.2/stream/3612
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="discovery_channel.png" group-title="",Discovery Channel HD
+rtmp://50.7.115.2/stream/1108
+
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="discovery_science.png" group-title="",Discovery Science
+http://privatestream.tv/player?streamname=channnellllllllll2
+
+#EXTINF:-1 tvg-id="ID" tvg-logo="investigation_discovery.png" group-title="",Discovery ID HD
+rtmp://50.7.115.2/stream/2512
+
+#EXTINF:-1 tvg-id="Discovery Life" tvg-logo="discovery_life.png" group-title="",Discovery Life
+rtmp://50.7.115.2/stream/1129
+
+#EXTINF:-1 tvg-id="TLC" tvg-logo="tlc.png" group-title="",TLC HD
+rtmp://50.7.115.2/stream/3311
+
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="national_goegraphic.png" group-title="",National Goegraphic HD
+rtmp://50.7.115.2/stream/3614
+
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="nat_geo_wild.png" group-title="",Nat Geo Wild HD
+rtmp://50.7.115.2/stream/3412
+
+#EXTINF:-1 tvg-id="HISTORY" tvg-logo="history.png" group-title="",HISTORY
+http://dotstream.tv/player.php?streampage=h2ch
+
+#EXTINF:-1 tvg-id="Domo+" tvg-logo="domo.png" group-title="",Domo+
+rtmp://50.7.115.2/stream/3112
+
+#EXTINF:-1 tvg-id="Amazing TV" tvg-logo="itv" group-title="",Amazing TV
+http://dcs-188-64-85-40.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?stream=2
