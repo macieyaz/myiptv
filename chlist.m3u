@@ -67,7 +67,7 @@ rtmp://50.7.115.2/stream/2614
 rtmp://stream.smcloud.net/live/fokustv
 
 #EXTINF:-1 tvg-id="Stopklatka" tvg-logo="stopklatka.png" group-title="",Stopklatka
-rtmp://$OPT:rtmp-raw=rtmp://31.220.40.61/live/ playpath=dsdsdsdd swfUrl=http://dotstream.tv/jwp/jwplayer.flash.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=dsdsdsdd&width=600&height=450
+rtmp://31.220.40.61/live/ playpath=dsdsdsdd swfUrl=http://dotstream.tv/jwp/jwplayer.flash.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=dsdsdsdd&width=600&height=450
 
 #EXTINF:-1 tvg-id="FOX" tvg-logo="fox.png" group-title="",FOX HD
 rtmp://50.7.115.2/stream/2113
